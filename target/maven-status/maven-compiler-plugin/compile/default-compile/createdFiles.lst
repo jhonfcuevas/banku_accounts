@@ -1,0 +1,11 @@
+com/banku/accounts/entities/TransactionEntity.class
+com/banku/accounts/integration/RestProxy.class
+com/banku/accounts/BankuAccountsApplication.class
+com/banku/accounts/entities/AccountEntity.class
+com/banku/accounts/configuration/SwaggerConfig.class
+com/banku/accounts/configuration/SimpleCORSFilter.class
+com/banku/accounts/services/AccountService.class
+com/banku/accounts/repository/TransactionRepository.class
+com/banku/accounts/repository/AccountRepository.class
+com/banku/accounts/controllers/AccountController.class
+com/banku/accounts/ServletInitializer.class
